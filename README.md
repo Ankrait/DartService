@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 # DartService
-Одна из первых версток, с адаптивом.
+Одна из первых версток.
 <br />
 [Ссылка на GitHub Pages](https://ankrait.github.io/DartService/)
 <br />
