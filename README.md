@@ -1,4 +1,3 @@
-<a name="readme-top"></a>
 # DartService
 Одна из первых версток.
 <br />
@@ -11,7 +10,6 @@
 
 ### Getting Started
 Для запуска локально скопируйте репозиторий и откройте index.html
-
  ```sh
  git clone https://github.com/Ankrait/DartService.git
  ```
